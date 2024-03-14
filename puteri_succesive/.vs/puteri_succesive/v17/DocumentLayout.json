@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\cripto\\puteri_succesive\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D841F005-3383-4243-BDA6-8732F8E8A4AF}|puteri_succesive.vcxproj|D:\\cripto\\puteri_succesive\\puteri_succesive.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D841F005-3383-4243-BDA6-8732F8E8A4AF}|puteri_succesive.vcxproj|solutionrelative:puteri_succesive.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "puteri_succesive.cpp",
+              "DocumentMoniker": "D:\\cripto\\puteri_succesive\\puteri_succesive.cpp",
+              "RelativeDocumentMoniker": "puteri_succesive.cpp",
+              "ToolTip": "D:\\cripto\\puteri_succesive\\puteri_succesive.cpp",
+              "RelativeToolTip": "puteri_succesive.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-07T17:32:29.914Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
