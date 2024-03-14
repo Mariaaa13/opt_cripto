@@ -1,0 +1,4 @@
+﻿  Miller-Rabin.cpp
+D:\git_cripto\opt_cripto\l3\Miller-Rabin\Miller-Rabin.cpp(42,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\git_cripto\opt_cripto\l3\Miller-Rabin\Miller-Rabin.cpp(45,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Miller-Rabin.vcxproj -> D:\git_cripto\opt_cripto\l3\Miller-Rabin\x64\Debug\Miller-Rabin.exe
