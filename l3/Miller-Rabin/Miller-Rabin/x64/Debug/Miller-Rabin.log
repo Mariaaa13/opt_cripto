@@ -1,4 +1,8 @@
-﻿  Miller-Rabin.cpp
-D:\git_cripto\opt_cripto\l3\Miller-Rabin\Miller-Rabin.cpp(42,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
-D:\git_cripto\opt_cripto\l3\Miller-Rabin\Miller-Rabin.cpp(45,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+﻿  l4.cpp
+D:\git_cripto\opt_cripto\l3\Miller-Rabin\Header.h(102,26): warning C4244: '=': conversion from 'unsigned __int64' to 'int', possible loss of data
+  (compiling source file 'l4.cpp')
+  
+D:\git_cripto\opt_cripto\l3\Miller-Rabin\Header.h(106,10): warning C4244: '/=': conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+  (compiling source file 'l4.cpp')
+  
   Miller-Rabin.vcxproj -> D:\git_cripto\opt_cripto\l3\Miller-Rabin\x64\Debug\Miller-Rabin.exe

@@ -1,0 +1,8 @@
+﻿  Source.cpp
+D:\git_cripto\opt_cripto\l3\partea2\Header.h(103,26): warning C4244: '=': conversion from 'unsigned __int64' to 'int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+D:\git_cripto\opt_cripto\l3\partea2\Header.h(107,10): warning C4244: '/=': conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+  partea2.vcxproj -> D:\git_cripto\opt_cripto\l3\partea2\x64\Debug\partea2.exe

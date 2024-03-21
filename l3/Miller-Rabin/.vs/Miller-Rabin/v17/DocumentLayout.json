@@ -3,8 +3,17 @@
   "WorkspaceRootPath": "D:\\git_cripto\\opt_cripto\\l3\\Miller-Rabin\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A9C288BC-628B-49F8-8FBA-EF72620AFB0A}|Miller-Rabin.vcxproj|D:\\git_cripto\\opt_cripto\\l3\\Miller-Rabin\\Miller-Rabin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A9C288BC-628B-49F8-8FBA-EF72620AFB0A}|Miller-Rabin.vcxproj|solutionrelative:Miller-Rabin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{D94194A2-1280-40F4-BF43-18B479B92059}|..\\partea2\\partea2.vcxproj|D:\\git_cripto\\opt_cripto\\l3\\partea2\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D94194A2-1280-40F4-BF43-18B479B92059}|..\\partea2\\partea2.vcxproj|D:\\git_cripto\\opt_cripto\\l3\\Miller-Rabin\\Header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D94194A2-1280-40F4-BF43-18B479B92059}|..\\partea2\\partea2.vcxproj|solutionrelative:Header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D94194A2-1280-40F4-BF43-18B479B92059}|..\\partea2\\partea2.vcxproj|D:\\git_cripto\\opt_cripto\\l3\\partea2\\alfabet.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D94194A2-1280-40F4-BF43-18B479B92059}|..\\partea2\\partea2.vcxproj|D:\\git_cripto\\opt_cripto\\l3\\partea2\\date.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +23,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "date.txt",
+              "DocumentMoniker": "D:\\git_cripto\\opt_cripto\\l3\\partea2\\date.txt",
+              "RelativeDocumentMoniker": "..\\partea2\\date.txt",
+              "ToolTip": "D:\\git_cripto\\opt_cripto\\l3\\partea2\\date.txt",
+              "RelativeToolTip": "..\\partea2\\date.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAACBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-21T17:47:33.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Header.h",
+              "DocumentMoniker": "D:\\git_cripto\\opt_cripto\\l3\\Miller-Rabin\\Header.h",
+              "RelativeDocumentMoniker": "Header.h",
+              "ToolTip": "D:\\git_cripto\\opt_cripto\\l3\\Miller-Rabin\\Header.h",
+              "RelativeToolTip": "Header.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-21T17:47:05.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Miller-Rabin.cpp",
-              "DocumentMoniker": "D:\\git_cripto\\opt_cripto\\l3\\Miller-Rabin\\Miller-Rabin.cpp",
-              "RelativeDocumentMoniker": "Miller-Rabin.cpp",
-              "ToolTip": "D:\\git_cripto\\opt_cripto\\l3\\Miller-Rabin\\Miller-Rabin.cpp",
-              "RelativeToolTip": "Miller-Rabin.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Title": "Source.cpp",
+              "DocumentMoniker": "D:\\git_cripto\\opt_cripto\\l3\\partea2\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\partea2\\Source.cpp",
+              "ToolTip": "D:\\git_cripto\\opt_cripto\\l3\\partea2\\Source.cpp",
+              "RelativeToolTip": "..\\partea2\\Source.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-14T17:37:10.142Z",
+              "WhenOpened": "2024-03-21T17:45:43.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "alfabet.txt",
+              "DocumentMoniker": "D:\\git_cripto\\opt_cripto\\l3\\partea2\\alfabet.txt",
+              "RelativeDocumentMoniker": "..\\partea2\\alfabet.txt",
+              "ToolTip": "D:\\git_cripto\\opt_cripto\\l3\\partea2\\alfabet.txt",
+              "RelativeToolTip": "..\\partea2\\alfabet.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-21T17:44:39.748Z",
               "EditorCaption": ""
             }
           ]

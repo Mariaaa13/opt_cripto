@@ -39,7 +39,7 @@ bool test_Miller_Rabin(int n, int nr_incercari)
     }
     return 1;
 }
-void main() {
+/*void main() {
     int n;
     int nr_incercari;
     srand(time(NULL));
@@ -52,4 +52,4 @@ void main() {
         cout << "\nNumarul " << n << " poate fi prim" << endl;
     else
         cout << "\nNumarul " << n << " nu este prim" << endl;
-}
+}*/
