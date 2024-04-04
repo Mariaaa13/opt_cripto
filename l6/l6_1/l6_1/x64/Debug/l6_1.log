@@ -1,0 +1,8 @@
+﻿  Source.cpp
+D:\git_cripto\opt_cripto\l6\l6_1\Header.h(137,26): warning C4244: '=': conversion from 'unsigned __int64' to 'int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+D:\git_cripto\opt_cripto\l6\l6_1\Header.h(141,10): warning C4244: '/=': conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+  l6_1.vcxproj -> D:\git_cripto\opt_cripto\l6\l6_1\x64\Debug\l6_1.exe
