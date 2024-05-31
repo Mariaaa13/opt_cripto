@@ -1,0 +1,19 @@
+2 2
+punctul 0 O
+punctul 1 2 1
+punctul 2 2 12
+punctul 3 3 3
+punctul 4 3 10
+punctul 5 4 3
+punctul 6 4 10
+punctul 7 6 3
+punctul 8 6 10
+punctul 9 8 6
+punctul 10 8 7
+punctul 11 11 4
+punctul 12 11 9
+punctul 13 12 5
+punctul 14 12 8
+0752576920
+0735473598
+07noi doi si ale tale buze moi
